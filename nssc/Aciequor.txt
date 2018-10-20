@@ -1,0 +1,5 @@
+Build a fully autonomous bot based on line follower mechanism which can detect colours and sound frequencies. The arena consists of
+various color coded checkpoints and 2 sound sources placed perpendicular to each other to avoid interference.
+
+The bot has to identify the color of the checkpoint. If the color is GREEN then the bot has to move in the direction from where the 
+sound is coming and if the color is RED the bot has to move in the direction opposite to the direction of approaching sound wave.
