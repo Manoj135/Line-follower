@@ -1,3 +1,3 @@
 # Line-follower
-#mats iitr
+#MaRS IITR
 # Hobies club
