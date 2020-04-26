@@ -1,3 +1,3 @@
-# Line-follower
-#MaRS IITR
-# Hobies club
+# Mars IITR
+# Line-follower's README
+# Hobbies Club
